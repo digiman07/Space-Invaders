@@ -6,7 +6,6 @@ Space Invaders is a fixed shooter in which the player moves a laser cannon horiz
 
 - **Difficulty**: Intermediate
 - [**Download**](https://github.com/digiman07/Space-Invaders/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/qWDQgmdUzWI)
 
 ![alt text](https://github.com/digiman07/Space-Invaders/blob/main/Screenshots/GameMenu.jpg)
 
