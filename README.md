@@ -14,5 +14,5 @@ Space Invaders is a fixed shooter in which the player moves a laser cannon horiz
 ![alt text](https://github.com/digiman07/Space-Invaders/blob/main/Screenshots/GamePlay.jpg)
 
 <div align="center">
-<h4> <a href="https://mhsoftware.epizy.com/spaceinvaders/" target="_blank" rel="noopener noreferrer">View Demo</a> </h4>
+<h4> <a href="https://mhsoftware.great-site.net/spaceinvaders/" target="_blank" rel="noopener noreferrer">View Demo</a> </h4>
 </div>
